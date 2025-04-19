@@ -89,8 +89,8 @@ This can be helpful for car resellers, buyers, or marketplaces to estimate fair 
 - Data distributions for better understanding of features
 
 <p align="center">
-  <img src="screenshots/Linear_Regression_test.png" width="400"/> 
-  <img src="screenshots/Lasso_test.png" width="400"/> 
+  <img src="server/screenshots/Linear_Regression_test.png" width="400"/> 
+  <img src="server/screenshots/Lasso_test.png" width="400"/> 
 </p>
 
 ---
@@ -99,8 +99,8 @@ This can be helpful for car resellers, buyers, or marketplaces to estimate fair 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/car-price-prediction.git
-   cd car-price-prediction
+   git clone https://github.com/AmritHimanshu/Car_Price_Prediction.git
+   cd Car_Price_Prediction/server
 
 2. Install dependencies:
     ```bash
